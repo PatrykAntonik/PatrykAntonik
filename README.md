@@ -2,13 +2,14 @@
 
 # Hi there, I'm Patryk Antonik 👋
 
-### DevOps Engineer | Backend Developer
+### DevOps Engineer | Python Developer
 
 </div>
 
 <br/>
 
-I’m a DevOps and Backend Engineer with over 3 years of commercial experience, certified in Google Cloud. My responsibilities include managing Kubernetes environments, cloud infrastructure, and CI/CD pipelines. I use Python and Django to develop backend services and RESTful APIs, focusing on clean code and reliability through testing.
+I’m a DevOps and Python Engineer with over 3 years of commercial experience. As a Google Cloud certified professional, I manage Kubernetes environments, cloud infrastructure, and CI/CD pipelines. Using Python and Django, I develop backend services and RESTful APIs, focusing on clean code and reliability through testing.
+
 
 <br/>
 
@@ -70,6 +71,8 @@ I’m a DevOps and Backend Engineer with over 3 years of commercial experience, 
       </a>
       <br>Jenkins
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="48" height="48" alt="Kubernetes" />
@@ -81,6 +84,24 @@ I’m a DevOps and Backend Engineer with over 3 years of commercial experience, 
         <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
+    </td>
+    <td align="center" width="90">
+      <a href="https://helm.sh/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="40" height="40" alt="Helm" />
+      </a>
+      <br>Helm
+    </td>
+    <td align="center" width="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="48" height="48" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="90">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
     </td>
   </tr>
   <tr>
@@ -110,7 +131,6 @@ I’m a DevOps and Backend Engineer with over 3 years of commercial experience, 
     </td>
   </tr>
 </table>
-
 ### Backend
 <table align="center">
   <tr>
