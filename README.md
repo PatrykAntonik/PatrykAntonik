@@ -23,6 +23,12 @@ I’m a DevOps and Python Engineer with over 3 years of commercial experience. A
 <a href="https://www.linkedin.com/in/patryk-antonik-572256266/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<br/>
+
+<a href="https://patrykantonik.github.io/portfolio">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio_Website-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
 
 <br/><br/>
 
