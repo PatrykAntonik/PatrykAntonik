@@ -26,7 +26,7 @@ I’m a DevOps and Backend Engineer with over 3 years of commercial experience, 
 <br/><br/>
 
 <!-- Certifications -->
-<h3>Certificates</h3>
+<h3>Certifications</h3>
 <a href="https://www.credly.com/badges/463ae94b-d917-454b-8bb6-90fdc6da1f68">
   <img src="https://images.credly.com/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/twitter_thumb_201604_image.png" width="100" alt="Google Cloud Certified" />
 </a>
