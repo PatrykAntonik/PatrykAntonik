@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Patryk Antonik 👋
+# Patryk Antonik 👋
 
 ### DevOps Engineer | Python Developer
 
